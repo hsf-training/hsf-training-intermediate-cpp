@@ -13,7 +13,8 @@ FIXME: home page introduction
 >
 > This lesson is NOT for complete programming beginners.
 > It should NOT be the first programming language you learn.
-> * Basic Python knowledge, e.g. through the [Software Carpentry Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/)
+> 1. Basic Python, e.g. through the [Software Carpentry Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/)
+> 2. Basic Modern C++ through the [HSF lesson](https://hsf-training.github.io/hsf-training-cpp-webpage/)
 {: .prereq}
 
 {% include curriculum.html %}
